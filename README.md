@@ -1,0 +1,1 @@
+Blog Project using Django (BE) + NextJS (FE). Will integrate also some services perhaps with AWS S3, Redis, etc.
